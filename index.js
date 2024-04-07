@@ -1,6 +1,7 @@
 // Copyright (c) 2014 The Chromium Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
 // extract from chromium source code by @liuwayong
 (function () {
     'use strict';
@@ -110,7 +111,7 @@
         CLOUD_FREQUENCY: 0.5,
         GAMEOVER_CLEAR_TIME: 750,
         GAP_COEFFICIENT: 0.6,
-        GRAVITY: 0.6,
+        GRAVITY: 0.7,
         INITIAL_JUMP_VELOCITY: 12,
         INVERT_FADE_DURATION: 12000,
         INVERT_DISTANCE: 700,
@@ -118,11 +119,11 @@
         MAX_CLOUDS: 6,
         MAX_OBSTACLE_LENGTH: 3,
         MAX_OBSTACLE_DUPLICATION: 2,
-        MAX_SPEED: 13,
+        MAX_SPEED: 15,
         MIN_JUMP_HEIGHT: 35,
         MOBILE_SPEED_COEFFICIENT: 1.2,
         RESOURCE_TEMPLATE_ID: 'audio-resources',
-        SPEED: 6,
+        SPEED: 9,
         SPEED_DROP_COEFFICIENT: 3,
         ARCADE_MODE_INITIAL_TOP_POSITION: 35,
         ARCADE_MODE_TOP_POSITION_PERCENT: 0.1
